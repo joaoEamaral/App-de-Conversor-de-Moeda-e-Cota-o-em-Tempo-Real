@@ -1,5 +1,5 @@
-# Sample Snack app
-
+# App-de-Conversor-de-Moeda-e-Cota-o-em-Tempo-Real
+Aplicativo que tem como função converter Real em Dólar ou em Euro.
 -----------------------------------------------------------------------------------------------------------------------
 
 Programadores: João Emanuel Lozano Bergamin & Pedro Henrique dos Santos Amaral 
