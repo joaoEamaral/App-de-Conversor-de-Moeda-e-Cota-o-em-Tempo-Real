@@ -11,6 +11,33 @@ Escola: Etec Euro Albino de Souza
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Instruções para Rodar o Projeto Requisitos:
+
+Node.js (recomendado: versão LTS).
+
+Expo CLI.
+
+Acesso à internet para obtenção das taxas de câmbio.
+
+Passo a Passo:
+
+Clone o repositório do projeto:
+
+git clone https://github.com/Pepe-Dan-Dan/Leprechaun---Conversor-de-Moedas.git
+
+Acesse o diretório do projeto:
+cd conversor-de-
+Instale as dependências necessárias:
+
+npm install
+
+Inicie o aplicativo com o Expo:
+
+expo start
+Use o aplicativo no seu dispositivo físico ou emulador, escaneando o QR code exibido no terminal ou navegador.
+
+-----------------------------------------------------------------------------------------------------------------------
+
 Tela De Cadastro de Usuário: 
 
 ![Cadastro](https://github.com/user-attachments/assets/1181c9c7-54fa-4aad-8ea8-e73afaa68d56)     ![Cadastro2](https://github.com/user-attachments/assets/70664cf9-80f6-4e88-9509-9715f32555f5)
@@ -75,3 +102,4 @@ React Native: 0.72.0
 Expo: 49.0.5 
 
 API de cotações: AwesomeAPI
+https://docs.awesomeapi.com.br/api-de-moedas
